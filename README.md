@@ -1,2 +1,2 @@
 # Algorithms
-Sorting algorithms
+Sorting algorithms are to be uploaded in this repo
